@@ -29,8 +29,8 @@ Backend Setup
 Clone the repository:
 
 bash
-Copy code
-git clone https://github.com/your-username/salary-prediction.git
+
+git clone https://github.com/IkireziI/salary-prediction_summative.git
 cd salary-prediction
 Create and activate a virtual environment:
 
@@ -68,7 +68,7 @@ If you haven't already, clone the repository that contains the Flutter project.
 
 bash
 Copy code
-git clone https://github.com/your-username/salary-prediction-flutter.git
+git clone https://github.com/IkireziI/salary-prediction_summative.git
 cd salary-prediction-flutter
 Install dependencies:
 
